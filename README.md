@@ -20,7 +20,7 @@
 
 ## 🌟 Highlighted Projects
 
-- [monorickBeep](https://github.com/MonorickBeep/monorickBeep)
+- NONE
 
 ---
 
